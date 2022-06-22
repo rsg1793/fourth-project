@@ -9,23 +9,24 @@ body{
     background-image: url('../images/images.jpg');
     background-size: 500px 500px;
     background-repeat: no-repeat;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
-.header{
+.main-header{
     background-color: aqua;
     
     padding:10px;
     border:20px;
 
 }
-.header h1{
+.main-header h1{
     /* font-size: px; */
+    text-align: center;
     color: black;
     
 
 }
-.section{
-    background-color: aqua;
+.nav{
+    background-color: red;
     color: black;
     padding:10px;
     border:20px;
