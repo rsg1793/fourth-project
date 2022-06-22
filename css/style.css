@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 1.6em;
+    margin:auto;
+    background-image: url('../images/images.jpg');
+    background-position:100px,200px;
+    background-repeat: no-repeat;
+}
+.header{
+    background-color: aqua;
+    
+    padding:10px;
+    border:20px;
+
+}
+.header h1{
+    font-size: 12px;
+    color: black;
+    
+
+}
+.section{
+    background-color: aqua;
+    color: black;
+    padding:10px;
+    border:20px;
+}
+
+
+
